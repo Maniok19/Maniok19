@@ -36,9 +36,9 @@ Feel free to explore my projects and provide feedback! I’m always looking to i
 
 I'm ready to collaborate on exciting projects and am open to job opportunities. If you're interested in working together or just want to chat, feel free to reach out!
 
-- [GitHub Profile](https://github.com/Maniok19){:target="_blank"}
-- [My Curiculum](https://maniok19.github.io){:target="_blank"}
-- [My LinkedIn](https://www.linkedin.com/in/mano-delcourt-662a11155/){:target="_blank"}
+- [GitHub Profile](https://github.com/Maniok19)
+- [My Curiculum](https://maniok19.github.io)
+- [My LinkedIn](https://www.linkedin.com/in/mano-delcourt-662a11155/)
 
 ## Fun Facts 🤓
 
