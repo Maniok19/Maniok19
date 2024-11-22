@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Maniok19/Maniok19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mano Delcourt**, a passionate developer from France 🇫🇷. I'm currently studying at **Holberton School Fréjus** and I'm excited to share my journey with you! 🌟
 
-Here are some ideas to get you started:
+## About Me 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Age**: 25
+- **Location**: Fréjus, France
+- **Education**: Holberton School Fréjus
+- **Interests**: Development, Gaming 🎮, and Learning New Technologies
+
+I have a strong passion for **development** and have worked on several projects, primarily in **C programming language**. Additionally, I've developed some fun games using **Unity**! 🎉
+
+## My Skills 💻
+
+- **Languages**:
+  - C
+  - C++
+  - C#
+  - Unity
+- **Tools & Technologies**:
+  - Git & GitHub
+  - Visual Studio
+  - Unity Engine
+
+## Projects 🚀
+
+Here are a few projects I've worked on:
+
+1. **C Projects**: A collection of small applications demonstrating my skills in C.
+2. **Unity Games**: Fun and interactive games created using Unity. Check them out in my repositories! 🎮
+
+Feel free to explore my projects and provide feedback! I’m always looking to improve and learn more.
+
+## Let's Connect! 🤝
+
+I'm ready to collaborate on exciting projects and am open to job opportunities. If you're interested in working together or just want to chat, feel free to reach out!
+
+- [GitHub Profile](https://github.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
+## Fun Facts 🤓
+
+- I love playing video games in my free time!
+- I'm always eager to learn new programming languages and frameworks.
+- I enjoy contributing to open-source projects.
+
+## Thank You for Visiting! 🌈
+
+I appreciate you taking the time to check out my profile! If you like what you see, give me a star ⭐ on my repositories or drop me a message!
+
+---
