@@ -36,8 +36,7 @@ Feel free to explore my projects and provide feedback! I’m always looking to i
 
 I'm ready to collaborate on exciting projects and am open to job opportunities. If you're interested in working together or just want to chat, feel free to reach out!
 
-- [GitHub Profile](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [GitHub Profile](https://github.com/Maniok19)
 
 ## Fun Facts 🤓
 
