@@ -11,7 +11,7 @@ I'm **Mano Delcourt**, a passionate developer from France 🇫🇷. I'm currentl
 
 I have a strong passion for **development** and have worked on several projects, primarily in **C programming language**. Additionally, I've developed some fun games using **Unity**! 
 
-## My Skills 💻
+## My Skills
 
 - **Languages**:
   - C
@@ -31,7 +31,7 @@ I have a strong passion for **development** and have worked on several projects,
 Here are a few projects I've worked on:
 
 1. **C Projects**: A collection of small applications demonstrating my skills in C.
-2. **Unity Games**: Fun and interactive games created using Unity. Check them out in my repositories! 🎮
+2. **Unity Games**: Fun and interactive games created using Unity. Check them out in my repositories!
 3. **Holberton** School Projects
 
 Feel free to explore my projects and provide feedback! I’m always looking to improve and learn more.
@@ -52,6 +52,6 @@ I'm ready to collaborate on exciting projects and am open to job opportunities. 
 
 ## Thank You for Visiting! 
 
-I appreciate you taking the time to check out my profile! If you like what you see, give me a star ⭐ on my repositories or drop me a message!
+I appreciate you taking the time to check out my profile! If you like what you see, give me a star on my repositories or drop me a message!
 
 ---
